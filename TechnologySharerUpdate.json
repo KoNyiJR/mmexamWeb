@@ -1,5 +1,5 @@
- { "title" : "New update available", 
-"message" : "- fixed some bugs\n - improved Hacking Guide\n- New Update Version(3.0)",
- "versionCode" : 4, 
+ { "title:"သတိပေးချက်", 
+"message" : "AppမှာErrorတစ်ချိုရှိနေပါသဖြင့်ယခုappကိုသုံးမရတော့ပါ",
+ "versionCode" : 5, 
 "force" : false,
  "link" : "https://www.mediafire.com/download/p3i059d237l9lgd" } 
